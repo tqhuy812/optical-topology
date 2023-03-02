@@ -21,15 +21,6 @@
         "password": "admin"
       },
       {
-        "uuid": "NODE215",
-        "vendor": "FUJITSU",
-        "device": "1830PSS-16",
-        "host": "135.238.196.212",
-        "port": "830",
-        "username": "admin",
-        "password": "admin"
-      },
-      {
         "uuid": "NODE213",
         "vendor": "NOKIA",
         "device": "1830PSS-32",
