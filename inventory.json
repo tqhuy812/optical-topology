@@ -1,7 +1,7 @@
 {
   "topology": {
     "uuid": "topology",
-    "node": [
+    "nodes": [
       {
         "uuid": "NODE210",
         "vendor": "NOKIA",
@@ -48,7 +48,7 @@
         "password": "admin"
       }
     ],
-    "link": [
+    "links": [
       {
         "uuid": "NODE210toNODE213",
         "port": [
