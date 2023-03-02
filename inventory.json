@@ -78,20 +78,6 @@
         "direction": "UNIDIRECTIONAL"
       },
       {
-        "uuid": "NODE216toNODE213",
-        "port": [
-          {
-            "node-uuid": "NODE216",
-            "port": "1/6/LINEOUT"
-          },
-          {
-            "node-uuid": "NODE213",
-            "port": "2/6/LINEIN"
-          }
-        ],
-        "direction": "UNIDIRECTIONAL"
-      },
-      {
         "uuid": "NODE213toNODE210",
         "port": [
           {
