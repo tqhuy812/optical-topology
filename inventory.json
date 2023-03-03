@@ -21,6 +21,16 @@
         "type": "ROADM",
         "username": "admin",
         "password": "admin"
+      },
+            {
+        "uuid": "NODE213",
+        "vendor": "CISCO",
+        "device": "1830PSS-32",
+        "host": "135.238.196.213",
+        "port": "830",
+        "type": "ROADM",
+        "username": "admin",
+        "password": "admin"
       }
     ],
     "links": [
