@@ -1,6 +1,6 @@
 {
   "topology": {
-    "uuid": "topo",
+    "uuid": "topology",
     "nodes": [
       {
         "uuid": "NODE211",
