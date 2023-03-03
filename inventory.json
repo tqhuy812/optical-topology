@@ -8,6 +8,7 @@
         "device": "1830PSS-32",
         "host": "135.238.196.210",
         "port": "830",
+        "type": "TRANSPONDER",
         "username": "admin",
         "password": "admin"
       },
@@ -17,6 +18,7 @@
         "device": "1830PSS-32",
         "host": "135.238.196.210",
         "port": "830",
+        "type": "ROADM",
         "username": "admin",
         "password": "admin"
       },
@@ -26,6 +28,7 @@
         "device": "1830PSS-32",
         "host": "135.238.196.213",
         "port": "830",
+        "type": "ROADM",
         "username": "admin",
         "password": "admin"
       }
