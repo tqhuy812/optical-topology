@@ -4,7 +4,7 @@
       {
         "id": "1830-PSI-M-A1",
         "vendor": "VENDOR-A",
-        "host": "135.238.196.211",
+        "host": "135.238.196.212",
         "port": "830",
         "type": "TRANSPONDER",
         "username": "admin",
