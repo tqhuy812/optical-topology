@@ -36,15 +36,6 @@
         "type": "ROADM",
         "username": "admin",
         "password": "admin"
-      },
-      {
-        "id": "1830-PSS-B1",
-        "vendor": "VENDOR-B",
-        "host": "135.238.196.213",
-        "port": "830",
-        "type": "ROADM",
-        "username": "admin",
-        "password": "admin"
       }
     ],
     "links": [
