@@ -18,15 +18,6 @@
         "type": "ROADM",
         "username": "admin",
         "password": "admin"
-      },
-      {
-        "id": "1830-PSS-C1",
-        "vendor": "VENDOR-C",
-        "host": "135.238.196.211",
-        "port": "830",
-        "type": "ROADM",
-        "username": "admin",
-        "password": "admin"
       }
     ],
     "links": [
@@ -54,62 +45,6 @@
         "node-z": {
           "id": "1830-PSS-A1",
           "port-id": "1-5-1",
-          "type": "ROADM",
-          "port-dir": "RX"
-        }
-      },
-      {
-        "node-a": {
-          "id": "1830-PSS-A1",
-          "port-id": "1-2-4",
-          "type": "ROADM",
-          "port-dir": "TX"
-        },
-        "node-z": {
-          "id": "1830-PSS-C1",
-          "port-id": "1-2-1",
-          "type": "ROADM",
-          "port-dir": "RX"
-        }
-      },
-      {
-        "node-a": {
-          "id": "1830-PSS-C1",
-          "port-id": "1-2-4",
-          "type": "ROADM",
-          "port-dir": "TX"
-        },
-        "node-z": {
-          "id": "1830-PSS-A1",
-          "port-id": "1-2-1",
-          "type": "ROADM",
-          "port-dir": "RX"
-        }
-      },
-      {
-        "node-a": {
-          "id": "1830-PSS-B1",
-          "port-id": "1-6-4",
-          "type": "ROADM",
-          "port-dir": "TX"
-        },
-        "node-z": {
-          "id": "1830-PSS-C1",
-          "port-id": "1-5-1",
-          "type": "ROADM",
-          "port-dir": "RX"
-        }
-      },
-      {
-        "node-a": {
-          "id": "1830-PSS-C1",
-          "port-id": "1-5-4",
-          "type": "ROADM",
-          "port-dir": "TX"
-        },
-        "node-z": {
-          "id": "1830-PSS-B1",
-          "port-id": "1-6-1",
           "type": "ROADM",
           "port-dir": "RX"
         }
