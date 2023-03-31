@@ -90,20 +90,6 @@
           "type": "ROADM",
           "port-dir": "RX"
         }
-      },
-      {
-        "node-a": {
-          "id": "1830-PSS-C1",
-          "port-id": "1-5-4",
-          "type": "ROADM",
-          "port-dir": "TX"
-        },
-        "node-z": {
-          "id": "1830-PSS-B1",
-          "port-id": "1-6-1",
-          "type": "ROADM",
-          "port-dir": "RX"
-        }
       }
     ]
   }
