@@ -39,7 +39,7 @@
       },
       {
         "id": "1830-PSS-C1",
-        "vendor": "VENDOR-B",
+        "vendor": "VENDOR-C",
         "host": "135.238.196.211",
         "port": "830",
         "type": "ROADM",
